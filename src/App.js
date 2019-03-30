@@ -7,7 +7,7 @@ class App extends Component {
     super();
     this.state = {
       result: [],
-      apiKey: `5QGCEXAsJowiCI4n1uAwMlCGAcSNAEmG`,
+      apiKey: `removed`,
       keyword: "",
       inputValue: "",
     };
